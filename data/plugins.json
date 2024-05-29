@@ -7460,7 +7460,7 @@
 		"name": "Open Plugin Settings",
 		"author": "Mara-Li",
 		"description": "Create a command to open a specified plugin settings.",
-		"repo": "Mara-Li/open-plugin-settings-commands",
+		"repo": "Mara-Li/obsidian-open-settings",
 		"downloads": 4012
 	},
 	{
@@ -13398,5 +13398,77 @@
 		"description": "Personal dictionary for your notes",
 		"repo": "dominiclet/obsidian-note-definitions",
 		"downloads": 17
+	},
+	{
+		"id": "mathlive-in-editor-mode",
+		"name": "MathLive in Editor Mode",
+		"author": "MizarZh",
+		"description": "MathLive input in editor mode",
+		"repo": "MizarZh/obsidian-mathlive-codemirror",
+		"downloads": 0
+	},
+	{
+		"id": "lineage",
+		"name": "Lineage",
+		"author": "ycnmhd",
+		"description": "A writing interface that combines structure and content. Inspired by Gingko Writer.",
+		"repo": "ycnmhd/obsidian-lineage",
+		"downloads": 0
+	},
+	{
+		"id": "settings-management",
+		"name": "Settings Management",
+		"author": "Huajin",
+		"description": "Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc.",
+		"repo": "xhuajin/obsidian-settings-options-management",
+		"downloads": 0
+	},
+	{
+		"id": "laser-beam",
+		"name": "Laser beam",
+		"author": "Bernardo Pires",
+		"description": "Improve your reading experience with customizable laser lines.",
+		"repo": "drbap/laser-beam-for-obsidian",
+		"downloads": 0
+	},
+	{
+		"id": "freeform",
+		"name": "Freeform",
+		"author": "tmcw",
+		"description": "Create visualizations, run custom JS, and mix live programs with your notes",
+		"repo": "tmcw/obsidian-freeform",
+		"downloads": 0
+	},
+	{
+		"id": "smart-html-select",
+		"name": "Smart HTML Select",
+		"author": "Isaia Riva",
+		"description": "Create select that change the markdown on change adding an action button to the ribbon (left sidebar)",
+		"repo": "IsaiaScope/smart-html-select-plugin",
+		"downloads": 0
+	},
+	{
+		"id": "file-preview",
+		"name": "File Preview",
+		"author": "Huajin",
+		"description": "Add file preview contents under file in file explorer.",
+		"repo": "xhuajin/obsidian-file-preview",
+		"downloads": 0
+	},
+	{
+		"id": "regex-mark",
+		"name": "Regex Mark",
+		"author": "Mara-Li",
+		"description": "Add custom CSS classes to text based on regular expressions.",
+		"repo": "Mara-Li/obsidian-regex-mark",
+		"downloads": 0
+	},
+	{
+		"id": "focus-tracker",
+		"name": "Focus Tracker",
+		"author": "Jeet Sukumaran",
+		"description": "Track and align your focus.",
+		"repo": "jeetsukumaran/obsidian-focus-tracker",
+		"downloads": 0
 	}
 ]
